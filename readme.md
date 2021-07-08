@@ -11,3 +11,15 @@ Restart Glimpse.
 Move brushes into `C:\Program Files\GIMP 2\share\gimp\2.0\brushes`.
 
 Restart GIMP.
+
+#### GIMP For Linux ####
+
+Move brushes into `/usr/share/gimp/2.0/brushes`.
+
+Alternatively you can do this using the Terminal:
+
+```
+sudo mv brushes /usr/share/gimp/2.0/brushes
+```
+
+Restart GIMP.
