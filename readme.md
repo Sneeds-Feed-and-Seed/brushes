@@ -1,16 +1,16 @@
 ### Installation guide ###
 
+
+### 1
+
 #### Glimpse For Windows ####
 
 Move the brushes into `C:\Program Files (x86)\Glimpse Image Editor\Glimpse 0.1.2\share\glimpse\2.0\brushes`.
-
-Restart Glimpse. 
 
 #### GIMP For Windows #### 
 
 Move brushes into `C:\Program Files\GIMP 2\share\gimp\2.0\brushes`.
 
-Restart GIMP.
 
 #### GIMP For Linux ####
 
@@ -21,5 +21,6 @@ Alternatively you can do this using the Terminal:
 ```
 sudo mv brushes /usr/share/gimp/2.0/brushes
 ```
+### 2 
 
-Restart GIMP.
+Restart SIMP (GIMP, CHIMP, Glimpse).
